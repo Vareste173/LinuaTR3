@@ -1,0 +1,6 @@
+pillow
+pytesseract
+opencv-python
+deep-translator
+langdetect
+jsoncpp   
